@@ -1,2 +1,3 @@
 # ServerForRc
-just run server.js
+- npm install
+- run server.js
